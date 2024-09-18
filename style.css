@@ -1,0 +1,37 @@
+* {
+    margin : 0;
+    padding : 0;
+}
+body {
+    color : white;
+    font-family: sans-serif;
+}
+.blue{ 
+    background : #012169;
+    padding : 1rem;
+    font-weight:400;
+}
+.blue2{ 
+    background : #012169;
+    padding : 3rem;
+}
+.white{
+    background : white;
+}
+.black{
+    background : black;
+    padding : 3rem;
+    text-align: center;
+    font-weight: 100;
+}
+a {
+    color : white;
+    text-decoration: none;
+}
+.homeblue{
+    color: #012169;
+    text-decoration: underline;
+    font-size: 1rem;
+    font-weight: 500;
+    
+}
